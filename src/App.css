@@ -12,7 +12,7 @@
   box-sizing: border-box;
 }
 body {
-  background: var(--mainGrey);
+  background: #FBD157;
   color: var(--mainBlack);
   font-family: "Roboto", sans-serif;
 }
